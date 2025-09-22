@@ -2,7 +2,7 @@
 By Amfo Samuel Jnr.
 
 ![Covid19-](https://github.com/mikeolaniyi/Covid19_Vaccination_Analysis_in_SQL/assets/120651356/ab54c8f4-7465-49b9-8502-c9f758497889)
-
+ 
 
 - **Brief Introduction**
 
